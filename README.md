@@ -4,6 +4,7 @@ A react booking bar component demonstration written with React+JSX+CSS.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![alt text](https://github.com/beolabs-io/react-booking-bar/blob/master/react-bookin-bar.png "react-booking-bar preview")
 
 ### External Dependancies
 
