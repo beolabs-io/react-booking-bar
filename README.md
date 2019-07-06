@@ -1,4 +1,4 @@
-# react-booking-bar
+# a react-booking-bar
 
 A react booking bar component demonstration written with React+JSX+CSS.
 
